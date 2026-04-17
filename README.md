@@ -68,12 +68,6 @@ The rating distribution is strongly skewed toward positive ratings, with 5-star 
 
 *Caption: Frequency of ratings in the `Video_Games` review data.*
 
-The review-count analysis shows why sparsity is a central issue: most users appear only once or twice in the full cleaned data.
-
-![User review counts](graphs/analisi_esplorativa_(user_review_counts_top7).png)
-
-*Caption: Most common numbers of reviews per user.*
-
 Review-level correlation analysis was also used to inspect relationships between review length, helpful votes, and number of images.
 
 ![Review Spearman correlation](graphs/analisi_esplorativa_(review_spearman_correlation).png)
